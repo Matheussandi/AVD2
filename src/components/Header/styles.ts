@@ -10,7 +10,6 @@ export const Content = styled.div`
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: #7c00ff;
 
     button {
         max-width: 1120px;
