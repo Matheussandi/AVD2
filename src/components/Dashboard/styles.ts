@@ -12,7 +12,7 @@ export const Container = styled.div`
         padding: 1.5rem 2rem;
         border-radius: 0.25rem;
         color: #000;
-        margin-bottom: 200px;
+        margin: 2rem;
     
 
         header {
@@ -61,6 +61,7 @@ export const Container = styled.div`
         padding: 0 2rem;
         border-radius: 0.25rem;
         height: 2.5rem;
+        margin: 2rem;
 
         transition: filter 0.3s;
 
