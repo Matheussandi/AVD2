@@ -9,7 +9,8 @@ export function Dashboard() {
                   
                 </header>
                 <strong>Do While</strong>
-                <strong>Alura</strong>
+                <strong>NLW</strong>
+                <strong>Fala Dev</strong>
             </div>
 
             <div>
@@ -19,6 +20,7 @@ export function Dashboard() {
                 </header>
                 <strong>Youtube</strong>
                 <strong>Youtube</strong>
+                <strong>Twitch</strong>
             </div>
 
             <div>
@@ -28,6 +30,7 @@ export function Dashboard() {
                 </header>
                 <strong>01/12/2021</strong>
                 <strong>08/12/2021</strong>
+                <strong>06/12/2021</strong>
             </div>
 
             <div>
@@ -35,20 +38,11 @@ export function Dashboard() {
                     <p>HORÁRIO</p>
                     
                 </header>
+                <strong>18:00</strong>
                 <strong>19:00</strong>
-                <strong>21:00</strong>
+                <strong>10:00</strong>
 
             </div>
-
-            <button type="button" className="bt1">
-                Excluir
-            </button>
-            <button type="button" className="bt2">
-                Like
-            </button>
-            <button type="button" className="bt3">
-                Dislike
-            </button>
         </Container>
     );
 }
